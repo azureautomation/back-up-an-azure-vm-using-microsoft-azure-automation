@@ -1,0 +1,20 @@
+{
+    "Author": "Courtenay Bernier",
+    "ContentSize": 2336,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/back-up-an-azure-vm-using-microsoft-azure-automation/master/AzureAutomation-BackupAzureVM.ps1",
+    "DownloadCount": 5945,
+    "Id": "Back-up-an-Azure-VM-using-9545f0a1",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 125,
+    "RaterCount": 5,
+    "Rating": 4.8,
+    "ReleaseDate": "2014-7-9T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Demonstrates backing up an Azure VM to an Azure storage account.  The following script will connect to an Azure VM, stop the VM, back it up to a storage account, and start the VM.",
+    "Title": "Back up an Azure VM using Microsoft Azure Automation",
+    "UpdatedDate": "2014-9-10T00:00:00",
+    "Url": "https://github.com/azureautomation/back-up-an-azure-vm-using-microsoft-azure-automation",
+    "UserTags": "Microsoft Azure, Powershell, backup"
+}
